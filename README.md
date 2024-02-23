@@ -1,6 +1,10 @@
 # socket-programming
 
-This repository contains a few smaller examples of socket programming utilizing different protocols. I completed these as class projects in Computer Networking, a cybersecurity course at NYU in Spring 2023. Some pieces of this code were supplied by my professor as a framework, but I wrote most of it myself. 
+*Socket programming, TCP, IP, HTTP, ICMP, SMTP, computer networking*
+
+---
+
+This repository contains a few small examples of socket programming utilizing different protocols. 
 
 ---
 
